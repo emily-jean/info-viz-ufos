@@ -1,0 +1,16 @@
+ufos/node_modules
+src/node_modules
+src/.idea
+ufos/.idea
+ufos/src/.idea
+*/.ipynb_checkpoints
+.idea
+package-lock.json
+yarn.lock
+*.synctex.gz
+*.aux
+milestone3.log
+report/milestone1/milestone1.log
+report/milestone2/milestone2.log
+testing.log
+final-report.log
